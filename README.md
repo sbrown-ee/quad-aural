@@ -15,6 +15,6 @@ Desireables:
 3. Stand-offs for stacking or mounting.
 
 
-Parts:
-- INMP441 - Invensense I2S microphone
-- 
+- Parts:
+1. INMP441 - Invensense I2S microphone
+ 
